@@ -10,7 +10,6 @@
 - 💬 Ask me about **frontend development and Java.**
 
 - 📫 How to reach me:  
-   - :pencil2: [E-mail](gunerisilzulal@gmail.com)
    - :office: [LinkedIn](https://www.linkedin.com/in/ışıl-zülal-güner/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiarikita)](https://github.com/kiarikita/github-readme-stats)
