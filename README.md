@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Java HMRS Project.**
 
-- 🌱 I’m currently learning **Java and React.**
+- 🌱 I’m currently learning **C# and .Net.**
 
 - 💬 Ask me about **frontend development and Java.**
 
