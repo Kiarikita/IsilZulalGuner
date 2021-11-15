@@ -20,5 +20,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiarikita)](https://github.com/kiarikita/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiarikita&show_icons=true&locale=en" alt="kiarikita" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiarikita&show_icons=true&locale=en" alt="kiarikita" /></p>-->
 
