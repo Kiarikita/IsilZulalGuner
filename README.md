@@ -9,13 +9,11 @@
 
 - 💬 Ask me about **frontend development and Java.**
 
-- 📫 How to reach me 
-:office: [LinkedIn](https://www.linkedin.com/in/ışıl-zülal-güner/)
 
-<h3 align="left">Connect with me:</h3>
+**📫Connect with me:**
 <p align="left">
-<a href="https://codepen.io/kiarikita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kiarikita" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ışıl-zülal-güner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ışıl-zülal-güner" height="30" width="40" /></a>
+<a href="https://codepen.io/kiarikita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kiarikita" height="30" width="40" /></a>
 <a href="https://medium.com/@izguner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@izguner" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/isilzulalguner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="isilzulalguner" height="30" width="40" /></a>
 </p>
