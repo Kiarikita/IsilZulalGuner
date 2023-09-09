@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiarikita&label=Profile%20views&color=0e75b6&style=flat" alt="kiarikita" /> </p>
 
-- 🔭 I’m currently working on **Movie eCommerce Application.**
-
-- 🌱 I’m currently learning **.Net and .Net Core**
-
-- 💬 Ask me about **frontend development and Java.**
+- 💬 Ask me about **frontend development and .Net.**
 
 
 **📫Connect with me:**
